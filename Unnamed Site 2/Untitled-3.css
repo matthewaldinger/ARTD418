@@ -1,0 +1,26 @@
+@media screen and (min-width: 700px) and (max-width: 950px){
+	body{margin: 50px;
+	}
+	.primary,.secondary{
+	min-height: 30em;
+	float: left;
+	}
+	.primary {
+	width: 60%;
+	}
+	.secondary {
+	width: 40%;
+	}
+	@media screen and (min-width: 850px){
+	body{
+	margin: 100px;
+	}
+	.primary,.secondary{
+	mid-height: 30em;
+	float: left;
+	}
+	.primary{
+	width: 60%;
+	}
+	}
+}
